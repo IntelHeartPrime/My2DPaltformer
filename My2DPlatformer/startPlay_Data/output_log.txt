@@ -1,0 +1,45 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6451]
+    Renderer: NVIDIA GeForce GTX 960
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\WorkSpace For Unity3D\My2DPlatformer\startPlay_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.744261 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.947329 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 711.
+Total: 0.319519 ms (FindLiveObjects: 0.054857 ms CreateObjectMapping: 0.052932 ms MarkObjects: 0.203067 ms  DeleteObjects: 0.008020 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.696461 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 711.
+Total: 0.242526 ms (FindLiveObjects: 0.049724 ms CreateObjectMapping: 0.035609 ms MarkObjects: 0.148852 ms  DeleteObjects: 0.007378 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.689083 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 711.
+Total: 0.197293 ms (FindLiveObjects: 0.025022 ms CreateObjectMapping: 0.020852 ms MarkObjects: 0.143719 ms  DeleteObjects: 0.007057 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3538 -> priority: 1 
